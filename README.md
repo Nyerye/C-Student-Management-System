@@ -49,22 +49,22 @@ To run the program locally, follow these steps:
    ```bash
     ./studentManagement
 
-##Functionality Overview
-###Adding a Student
+## Functionality Overview
+### Adding a Student
 The program prompts the user to enter the student's name, ID, and grades. Once entered, the student data is stored in a list.
 
-###Searching for a Student
+### Searching for a Student
 Users can search for a student by their full name. The program will return the student's details if found.
 
-###Modifying Student Grades
+### Modifying Student Grades
 Users can modify the grades of an existing student by searching for their name and entering new grade information.
 
-###Displaying All Students
+### Displaying All Students
 All student records will be displayed in a tabular format, including their names, IDs, and grades.
 
-###Writing Data to a File
+### Writing Data to a File
 Student records can be saved to a file. This will allow you to persist the data across program runs.
 
-###Reading Data from a File
+### Reading Data from a File
 Student data can be loaded from a pre-existing file into the program for editing or viewing.
 
