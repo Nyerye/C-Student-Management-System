@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a C++ based program for managing student data. The program allows users to add student information, modify grades, search for students by name, display student records, and save the data to a file. It also includes functionality for reading student data from a file and performing average grade calculations.
+This is a C program for managing student data. The program allows users to add student information, modify grades, search for students by name, display student records, and save the data to a file. It also includes functionality for reading student data from a file and performing average grade calculations.
 
 The main features include:
 - **Add a student**: Collect student data (name, ID, grades) and store it.
